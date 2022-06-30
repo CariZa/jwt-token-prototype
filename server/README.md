@@ -6,7 +6,7 @@ To run with docker-compose:
 
 If changes don't reflect:
 
-    $ docker-compose build --force-rm --no-cache && docker-compose up ]
+    $ docker-compose build --force-rm --no-cache && docker-compose up
 
 View on:
 
